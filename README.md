@@ -1,24 +1,9 @@
 # vue-news
+## 사용한 라이브러리
+- vue-router
+- vuex
+- axios 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## About
+- axios로 Http 통신후 데이터 List로 노출
+- vue-router로 상세 화면으로 routing
